@@ -1,0 +1,78 @@
+[
+    {
+        "id": "1",
+        "name": "IndiaBigShop Wooden Spectacle Holder",
+        "description": "Perfect for holding your eyeglasses at night or for keeping that extra pair of readers close at hand on your desk",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/718zI3dgr9L._AC._SR360,460.jpg",
+        "price": 79,
+        "quantity": 10,
+        "saleSlots": [
+            {
+                "weekDay": 0,
+                "startTime": 0,
+                "endTime": 0,
+                "isEnabled": true
+            },
+            {
+                "weekDay": 1,
+                "startTime": 0,
+                "endTime": 0,
+                "isEnabled": true
+            },
+            {
+                "weekDay": 2,
+                "startTime": 0,
+                "endTime": 0,
+                "isEnabled": true
+            },
+            {
+                "weekDay": 3,
+                "startTime": 0,
+                "endTime": 0,
+                "isEnabled": true
+            },
+            {
+                "weekDay": 4,
+                "startTime": 0,
+                "endTime": 0,
+                "isEnabled": true
+            },
+            {
+                "weekDay": 5,
+                "startTime": 0,
+                "endTime": 0,
+                "isEnabled": true
+            },
+            {
+                "weekDay": 6,
+                "startTime": 0,
+                "endTime": 0,
+                "isEnabled": true
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Analog Wall Clock",
+        "description": "Mishty Analog Wall Clock",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51kfeTP-5cL.jpg",
+        "price": 499,
+        "quantity": 20
+    },
+    {
+        "id": "3",
+        "name": "EFINITO Wall Clock",
+        "description": "Ideal watch for home, living room, kids room, bedroom & offices",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/81mUAsNsBzL._AC._SR360,460.jpg",
+        "price": 699,
+        "quantity": 30
+    },
+    {
+        "id": "4",
+        "name": "eCraftIndia Resting Buddha on Knee Metal Showpiece",
+        "description": "This is the perfect gift for anyone that likes New Age, Metaphysical or Buddha. This metal resting Buddha statue is sculptured beautifully with intricate detailing work. This Buddha statue is extremely lightweight and durable. Finely carved details on all sides of this Buddha Statue. Have Buddha watch over your home or business. Buddha can watch over your daily affairs and help you find fortune and tranquility in your daily life. In the modern world everyone needs to take a break and restore their inner balance from time to time. Let this Buddha serve as your guide to inner peace.",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/71-jWWAURCL._AC._SR360,460.jpg",
+        "price": 259,
+        "quantity": 10
+    }
+]

@@ -1,0 +1,1 @@
+const MAX_SLOT_TIME = 60    //In minutes
